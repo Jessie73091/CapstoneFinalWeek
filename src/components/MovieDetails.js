@@ -1,3 +1,4 @@
+import React from 'react'; // Add React import here
 import { useParams } from 'react-router-dom';
 
 function MovieDetails() {

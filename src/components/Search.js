@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';  // Add React import here
 
 function Search({ onSearch }) {
   const [query, setQuery] = useState(() => {

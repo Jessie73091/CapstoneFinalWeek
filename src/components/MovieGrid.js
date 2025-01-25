@@ -1,3 +1,4 @@
+import React from 'react'; // Add React import here
 import { Link } from 'react-router-dom';
 import '../MovieGrid.css';
 
